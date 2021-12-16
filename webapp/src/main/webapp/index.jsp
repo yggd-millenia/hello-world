@@ -96,7 +96,7 @@
     </div>
     <div class="box bg-primary">
         <i class="fas fa-utensils fa-3x"></i>
-        <h3>Free Meals</h3>
+        <h3>Free Yggdmillenia</h3>
         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ut, omnis?</p>
     </div>
     <div class="box bg-light">
