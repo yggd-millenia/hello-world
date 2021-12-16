@@ -102,7 +102,7 @@
     <div class="box bg-light">
         <i class="fas fa-dumbbell fa-3x"></i>
         <h3>Fitness Room</h3>
-        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ut, omnis?</p>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing <br> elit. Ut, omnis?</p>
     </div>
   </section>
 
